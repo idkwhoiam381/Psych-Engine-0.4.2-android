@@ -46,11 +46,6 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
- ​                       [​'​Bad Time Trio​'​], 
- ​                       [​'​GamesRF​'​,                ​'​grf​'​,                ​'​Musica/XML/chart e idealizador​'​,                                        ​'​https://youtube.com/c/GamesRF​'​,        ​'​0xFFFFDD33​'​], 
- ​                       [​'​DreamStreamGT​'​,                        ​'​dreamgt​'​,                ​'​Artista e design​'​,                                ​'​https://youtube.com/channel/UCNZ8TIPngeOL-0qdwhztxeQ​'​,                ​'​0xFFC30085​'​], 
- ​                       [​'​Dc Wars​'​,                        ​'​dc​'​,                ​'​Coder ou programador sla sou doido​'​,                                ​'​https://youtube.com/c/DCwars​'​,                ​'​0xFF4494E6​'​], 
- ​                       [​'​'​],
                         ['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
