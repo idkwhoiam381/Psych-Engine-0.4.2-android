@@ -56,6 +56,10 @@
       "type": "git",
       "ref": "master",
       "url": "https://github.com/Daninnocent/linc_luajit"
+    },
+    {
+      "name": "actuate",
+      "type": "haxelib"
     }
   ]
 }
