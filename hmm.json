@@ -46,16 +46,10 @@
       "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
-      "name": "extension-webview",
+      "name": "extension-webm",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/MatheusSilver/extension-webview"
-    },
-    {
-      "name": "AndroidTools",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/idkwhoiam381/AndroidTools"
+      "url": "https://github.com/idkwhoiam381/extension-webm"
     },
     {
       "name": "linc_luajit",
